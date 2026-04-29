@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Truong Hoai Anh
+# Hi there 👋, I'm Truong Hoai Anh
 
-### Fullstack Developer | ASP.NET Core | NextJs
+### Fullstack Developer | ASP.NET Core | Next.js
 
 Recent Software Engineering graduate focused on building scalable backend systems, secure APIs, and maintainable application architecture.
 
@@ -16,41 +16,45 @@ Recent Software Engineering graduate focused on building scalable backend system
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 - Backend developer focused on **C#**, **ASP.NET Core**, and **Entity Framework Core**
 - Also able to work with **Next.js** for building supporting frontend features
 - Familiar with **SQL Server**, **PostgreSQL**, and **Docker**
 
-## Tech Stack
+## 🧰 Tech Stack
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-009688?style=flat-square&logo=api&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-25A162?style=flat-square&logo=dotnet&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+<div align="center">
+  <img alt=".NET" height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" />
+  <img alt="Next.js" height="40" src="https://cdn.simpleicons.org/nextdotjs/000000" />
+  <img alt="SQL Server" height="40" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+  <img alt="PostgreSQL" height="40" src="https://cdn.simpleicons.org/postgresql/336791" />
+  <img alt="TypeScript" height="40" src="https://cdn.simpleicons.org/typescript/3178C6" />
+  <img alt="Postman" height="40" src="https://cdn.simpleicons.org/postman/FF6C37" />
+  <img alt="Docker" height="40" src="https://cdn.simpleicons.org/docker/2496ED" />
+  <img alt="Git" height="40" src="https://cdn.simpleicons.org/git/F05032" />
+  <img alt="VS Code" height="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+  <img alt="Azure" height="40" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />
+</div>
 
-### Data & Infrastructure
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+<div align="center">
 
-### Architecture & Supporting Skills
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4D4DFF?style=flat-square&logo=codify&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-FF6F00?style=flat-square&logo=layered&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-2962FF?style=flat-square&logo=microservices&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Backend**: .NET (ASP.NET Core) • **Frontend**: Next.js • **DB**: SQL Server / PostgreSQL • **Tools**: Postman, Docker, Git, VS Code, Azure
 
-## Education
+</div>
+
+## 🎓 Education
 
 **FPT University**  
 **Software Engineering** | 2021 - 2025
+
+## 📫 Contact
+
+- Email: [truonghoaianh0109@gmail.com](mailto:truonghoaianh0109@gmail.com)
+- Phone: [(+84) 0869-400-767](tel:+84869400767)
+- GitHub: [@TruongHoaiAnh](https://github.com/TruongHoaiAnh)
+
+---
 
 <div align="center">
 
