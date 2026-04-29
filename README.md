@@ -22,19 +22,20 @@ Recent Software Engineering graduate focused on building scalable backend system
 - Also able to work with **Next.js** for building supporting frontend features
 - Familiar with **SQL Server**, **PostgreSQL**, and **Docker**
 
+
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img alt=".NET" height="40" src="https://cdn.simpleicons.org/dotnet/512BD4" />
-  <img alt="Next.js" height="40" src="https://cdn.simpleicons.org/nextdotjs/000000" />
-  <img alt="SQL Server" height="40" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
-  <img alt="PostgreSQL" height="40" src="https://cdn.simpleicons.org/postgresql/336791" />
-  <img alt="TypeScript" height="40" src="https://cdn.simpleicons.org/typescript/3178C6" />
-  <img alt="Postman" height="40" src="https://cdn.simpleicons.org/postman/FF6C37" />
-  <img alt="Docker" height="40" src="https://cdn.simpleicons.org/docker/2496ED" />
-  <img alt="Git" height="40" src="https://cdn.simpleicons.org/git/F05032" />
-  <img alt="VS Code" height="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
-  <img alt="Azure" height="40" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />
+  <img alt=".NET" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+  <img alt="Next.js" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="SQL Server" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="PostgreSQL" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="TypeScript" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Postman" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img alt="Docker" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Git" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="VS Code" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Azure" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
 
 <div align="center">
