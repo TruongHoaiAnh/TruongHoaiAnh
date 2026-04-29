@@ -25,43 +25,23 @@ Recent Software Engineering graduate focused on building scalable backend system
 
 ## 🧰 Tech Stack
 
-<div align="center">
-  <img alt="C#" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" />
-  &nbsp;
-  <img alt=".NET" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" />
-  &nbsp;
-  <img alt="TypeScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" />
-  &nbsp;
-  <img alt="JavaScript" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  &nbsp;
-  <img alt="Next.js" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" />
-  &nbsp;
-  <img alt="HTML5" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
-  &nbsp;
-  <img alt="CSS3" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-  &nbsp;
-  <img alt="Bootstrap" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
-  &nbsp;
-  <img alt="SQL Server" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" />
-  &nbsp;
-  <img alt="PostgreSQL" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  &nbsp;
-  <img alt="Redis" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" />
-  &nbsp;
-  <img alt="Azure" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" />
-  &nbsp;
-  <img alt="Docker" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" />
-  &nbsp;
-  <img alt="Git" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-  &nbsp;
-  <img alt="GitHub" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
-  &nbsp;
-  <img alt="VS Code" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" />
-  &nbsp;
-  <img alt="Postman" width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" />
-</div>
+### Backend & Frontend
+<a href="#"><img alt=".NET" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="Next.js" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="TypeScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
 
-<div align="center">
+### Databases
+<a href="#"><img alt="SQL Server" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="PostgreSQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+
+### Tools & DevOps
+<a href="#"><img alt="Docker" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="Git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="Postman" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="VS Code" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>&nbsp;&nbsp;
+<a href="#"><img alt="Azure" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></a>
+
+</div>
 
 **Backend**: .NET (ASP.NET Core) • **Frontend**: Next.js • **DB**: SQL Server / PostgreSQL • **Tools**: Postman, Docker, Git, VS Code, Azure
 
