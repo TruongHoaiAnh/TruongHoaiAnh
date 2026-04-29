@@ -4,7 +4,7 @@
 
 ### Fullstack Developer | ASP.NET Core | Next.js
 
-Recent Software Engineering graduate focused on building scalable backend systems, secure APIs, and maintainable application architecture.
+Open to backend .NET fresher and junior developer opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-TruongHoaiAnh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TruongHoaiAnh)
 [![Email](https://img.shields.io/badge/Email-truonghoaianh0109%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truonghoaianh0109@gmail.com)
@@ -63,10 +63,4 @@ Recent Software Engineering graduate focused on building scalable backend system
 - Phone: [(+84) 0869-400-767](tel:+84869400767)
 - GitHub: [@TruongHoaiAnh](https://github.com/TruongHoaiAnh)
 
----
 
-<div align="center">
-
-**Open to backend .NET fresher and junior developer opportunities**
-
-</div>
