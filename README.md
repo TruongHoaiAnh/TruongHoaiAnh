@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Truong Hoai Anh
 
-### Fullstack Developer | ASP.NET Core | Next.js
+### Software Engineering | ASP.NET Core | Next.js
 
 Open to backend .NET fresher and junior developer opportunities.
 
