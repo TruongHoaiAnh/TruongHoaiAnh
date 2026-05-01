@@ -4,8 +4,6 @@
 
 ### Software Engineering | ASP.NET Core | Next.js
 
-Open to backend .NET fresher and junior developer opportunities.
-
 [![GitHub](https://img.shields.io/badge/GitHub-TruongHoaiAnh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TruongHoaiAnh)
 [![Email](https://img.shields.io/badge/Email-truonghoaianh0109%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truonghoaianh0109@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B84%200869--400--767-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84869400767)
