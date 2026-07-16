@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-truonghoaianh0109%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:truonghoaianh0109@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B84%200869--400--767-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+84869400767)
 
-**Ninh Kieu, Can Tho, Vietnam**
-
 </div>
 
 ---
@@ -18,7 +16,7 @@
 
 - Backend developer focused on **C#**, **ASP.NET Core**, and **Entity Framework Core**
 - Also able to work with **Next.js** for building supporting frontend features
-- Familiar with **SQL Server**, **PostgreSQL**, and **Docker**
+- Familiar with **SQL Server**, **PostgreSQL**, **MongoDB**, and **Docker**
 
 
 ## 🧰 Tech Stack
@@ -29,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="44" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="44" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" />
+
 
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" />
@@ -46,7 +46,7 @@
 
 </div>
 
-**Backend**: .NET (ASP.NET Core) • **Frontend**: Next.js • **DB**: SQL Server / PostgreSQL • **Tools**: Postman, Docker, Git, VS Code, Azure
+**Backend**: .NET (ASP.NET Core) • **Frontend**: Next.js • **DB**: SQL Server / PostgreSQL / MongoDB  • **Tools**: Postman, Docker, Git, VS Code, Azure
 
 </div>
 
