@@ -55,10 +55,4 @@
 **FPT University**  
 **Software Engineering** | 2021 - 2025
 
-## 📫 Contact
-
-- Email: [truonghoaianh0109@gmail.com](mailto:truonghoaianh0109@gmail.com)
-- Phone: [(+84) 0869-400-767](tel:+84869400767)
-- GitHub: [@TruongHoaiAnh](https://github.com/TruongHoaiAnh)
-
 
